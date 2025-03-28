@@ -6,7 +6,7 @@
 
 <!-- Optional Image or GIF -->
 <p align="center">
-  <img src="https://github.com/harlanenciso112/img/blob/main/giphy.gif?raw=true" width="600">
+  <img src="https://github.com/harlanenciso112/img/blob/main/giphy.gif?raw=true1" width="600">
 </p>
 
 
