@@ -6,13 +6,15 @@
 
 <!-- Optional Image or GIF -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW4xMGFpeXBkY3h4Z3dtbm5oYnBjdGp1cm93ZWQ4dTVlMjY0azR1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b4ab9TBk9Ornvrt9W8/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
 </p>
+
 
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 ## 📈 GitHub Stats
 <p align="center">
