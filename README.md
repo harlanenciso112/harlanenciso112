@@ -6,7 +6,7 @@
 
 <!-- Optional Image or GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW4xMGFpeXBkY3h4Z3dtbm5oYnBjdGp1cm93ZWQ4dTVlMjY0azR1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b4ab9TBk9Ornvrt9W8/giphy.gif" width="600">
 </p>
 
 
@@ -24,5 +24,3 @@
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
 ---
-⭐️ Inspired by [GitHub Profile README](https://github.com/matrivisuals)
-
