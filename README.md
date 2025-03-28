@@ -6,7 +6,7 @@
 
 <!-- Optional Image or GIF -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F1067564286639231624%2F&psig=AOvVaw3wLmV4wn6wtzmkJezdPz4w&ust=1743206305429000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCdote7q4wDFQAAAAAdAAAAABAK" width="600">
+  <img src="https%3A%2F%2Fwww.pinterest.com%2Fpin%2F1067564286639231624%2F&psig=AOvVaw3wLmV4wn6wtzmkJezdPz4w&ust=1743206305429000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCdote7q4wDFQAAAAAdAAAAABAK" width="600">
 </p>
 
 ## 🚀 About Me
