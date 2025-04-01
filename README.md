@@ -3,22 +3,14 @@
 <p align="center">
   🚀 Developer | 💡 Tech Enthusiast | 🎯 Lifelong Learner
 </p>
-asd
 <!-- Optional Image or GIF -->
 <p align="center">
   <img src="https://github.com/harlanenciso112/img/blob/main/3bMuMay.gif" width="600">
 </p>
 
-asdsd
-sadsad
-ASdasd
-Sdas
-SAD
-
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
 
 ## 📈 GitHub Stats
 <p align="center">
