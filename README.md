@@ -6,7 +6,7 @@
 <!-- Optional Image or GIF -->
 <p align="center">
   <img src="https://github.com/harlanenciso112/img/blob/main/3bMuMay.gif" width="600">
-</p>
+</p>h
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
