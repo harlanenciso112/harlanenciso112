@@ -3,7 +3,7 @@
 <p align="center">
   🚀 Developer | 💡 Tech Enthusiast | 🎯 Lifelong Learner
 </p>
-<!-- Optional Image or GIF -->
+<!-- Optional Image or GIF -->h
 <p align="center">
   <img src="https://github.com/harlanenciso112/img/blob/main/3bMuMay.gif" width="600">
 </p>
