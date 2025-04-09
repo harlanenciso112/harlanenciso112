@@ -1,6 +1,6 @@
 <!-- Header with your name and a short description -->
 <h1 align="center">Hi there! 👋 I'm Harlan</h1>
-<p align="center">h
+<p align="center">
   🚀 Developer | 💡 Tech Enthusiast | 🎯 Lifelong Learner
 </p>
 <!-- Optional Image or GIF -->
