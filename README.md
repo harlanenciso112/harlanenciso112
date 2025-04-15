@@ -1,6 +1,6 @@
 <!-- Header with your name and a short description -->
 <h1 align="center">Hi there! 👋 I'm Harlan</h1>
-<p align="center">5
+<p align="center">
   🚀 Developer | 💡 Tech Enthusiast | 🎯 Lifelong Learner
 </p>
 <!-- Optional Image or GIF -->
@@ -14,7 +14,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harlanenciso112&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harlanenciso11&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 
