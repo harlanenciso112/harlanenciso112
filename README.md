@@ -5,7 +5,7 @@
 </p>
 <!-- Optional Image or GIF -->
 <p align="center">
-  <img src="https://github.com/harlanenciso11233/img/blob/main/3bMuMay.gif" width="600">
+  <img src="https://github.com/harlanenciso112/img/blob/main/3bMuMay.gif" width="600">
 </p>
 
 ## 🛠️ Technologies & Tools
@@ -17,15 +17,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
-
-
-
-
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harlanenciso112&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juan&show_icons=true&theme=dark" />
 </p>
  
 ## 📫 Connect with Me
