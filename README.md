@@ -5,7 +5,7 @@
 </p>
 <!-- Optional Image or GIF -->
 <p align="center">
-  <img src="https://github.com/harlanenciso112/img/blob/main/3bMuMay.gif" width="600">
+  <img src="https://github.com/harlanenciso11233/img/blob/main/3bMuMay.gif" width="600">
 </p>
 
 ## 🛠️ Technologies & Tools
