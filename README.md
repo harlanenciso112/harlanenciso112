@@ -4,8 +4,9 @@
   🚀 Developer | 💡 Tech Enthusiast | 🎯 Lifelong Learner
 </p>
 <p align="center">
-  Web portfolio: <a href="https://harlan-dev.vercel.app" target="_blank">harlan-dev.vercel.app</a>
+  Web portfolio: <a href="https://harlan-dev.vercel.app" target="_blank" rel="noopener noreferrer">harlan-dev.vercel.app</a>
 </p>
+
 
 <!-- Optional Image or GIF -->
 <p align="center">
