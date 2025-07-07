@@ -3,6 +3,10 @@
 <p align="center">
   🚀 Developer | 💡 Tech Enthusiast | 🎯 Lifelong Learner
 </p>
+<p align="center">
+  Web portfolio: <a href="https://harlan-dev.vercel.app" target="_blank">harlan-dev.vercel.app</a>
+</p>
+
 <!-- Optional Image or GIF -->
 <p align="center">
   <img src="https://github.com/harlanenciso112/img/blob/main/3bMuMay.gif" width="600">
